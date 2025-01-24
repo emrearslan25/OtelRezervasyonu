@@ -46,8 +46,6 @@ Otel Yönetim Sistemi, otellerin günlük operasyonlarını dijital ortamda yön
 ### Fatura İşlemleri
 - Otomatik fatura oluşturma
 - Fatura görüntüleme
-- Fatura güncelleme
-- Fatura silme
 
 ## Sistem Mimarisi
 
